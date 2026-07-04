@@ -12,7 +12,7 @@ Prism Launcherは、MinecraftをPCで起動するために必要なツールで�
 
 ## Prism Launcherのインストール - macOS
 
-![Prism Launcher macOSダウンロード画面](./images/01-prism-macos-download.png)
+![Prism Launcher macOSダウンロード画面](./images/prism-macos-download.png)
 
 1. **Prism Launcherのダウンロード**: [Prism Launcherの公式サイト](https://prismlauncher.org/download/macos/)からmacOS用の最新バージョンをダウンロードします。zip形式で配布されるため、ダウンロード後に展開します。
 2. **アプリケーションフォルダにコピー**: 展開されたPrism Launcherをアプリケーションフォルダにドラッグ＆ドロップします。
@@ -20,7 +20,7 @@ Prism Launcherは、MinecraftをPCで起動するために必要なツールで�
 
 ## Prism Launcherのインストール - Windows11
 
-![Prism Launcher Windowsダウンロード画面](./images/02-prism-windows-download.png)
+![Prism Launcher Windowsダウンロード画面](./images/prism-windows-download.png)
 
 1. **Prism Launcherのダウンロード**: [Prism Launcherの公式サイト](https://prismlauncher.org/download/windows/)からWindows用の最新バージョンをダウンロードします。
 2. **ダウンロードしたファイルを実行**: ダウンロードした.exeファイルをダブルクリックして実行します。
@@ -35,7 +35,7 @@ Prism Launcherは、MinecraftをPCで起動するために必要なツールで�
    2. **Prism Launcherへのインポート**: 「起動構成を追加」ボタンをクリックして「インポート」を選択します。ダウンロードした設定ファイルを選択し、インポートを開始します。
    3. **セットアップ完了**: 設定ファイルのインポートが完了したら、トップ画面に起動構成が追加されていることを確認してセットアップ完了です。
 
-![Prism Launcher インポート画面](./images/03-prism-import.png)
+![Prism Launcher インポート画面](./images/prism-import.png)
 
 ## Minecraftアカウントのログイン
 
@@ -46,7 +46,7 @@ Prism Launcherは、MinecraftをPCで起動するために必要なツールで�
 1. **起動構成を選択**: 作成した起動構成を選択します。
 2. **起動ボタンをクリック**: 「起動」ボタンをクリックしてMinecraftを起動します。
 
-![Prism Launcher 起動構成画面](./images/04-prism-launcher-main.png)
+![Prism Launcher 起動構成画面](./images/prism-launcher-main.png)
 
 ## トラブルシューティング
 
